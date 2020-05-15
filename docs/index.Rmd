@@ -1,0 +1,15 @@
+---
+title: "Prova"
+author: "Giulio Gallucci"
+date: "5/15/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Prova prova
+
+$${(a+b) \over a } = {a \over b} $$
+
